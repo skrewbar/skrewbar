@@ -23,6 +23,17 @@ skuru는 가끔 쓰는 사람이 있어도 skrewbar를 쓰는사람은 없더라
 스크류바를 좋아해서 닉네임으로 정한 게 아니었거든요.  
 벌써 스크류바 안먹은지 1년이 넘었습니다. 😄
 
+## [코딩을 시작한 계기](https://github.com/skrewbar/skrewbar/blob/main/%EC%BD%94%EB%94%A9%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%9C%20%EA%B3%84%EA%B8%B0.md)
+
+제 첫 언어는 javascript이지만, 제대로 프로그래밍을 시작한 언어는 python입니다.
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
 <!--
 **skrewbar/skrewbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
