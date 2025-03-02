@@ -29,10 +29,11 @@ skuru는 가끔 쓰는 사람이 있어도 skrewbar를 쓰는사람은 없더라
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e5cc16?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin++-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 <!--
 **skrewbar/skrewbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
