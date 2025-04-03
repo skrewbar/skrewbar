@@ -3,7 +3,7 @@
 ## [알고리즘 문제해결](https://github.com/skrewbar/skrewbar/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0.md)
 
 [![solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skuru)](https://solved.ac/skuru)
+프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=skuru)](https://solved.ac/skuru)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=skuru&theme=warm)
 
